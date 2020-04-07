@@ -66,8 +66,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mDJ
-\033[1;96mYouTube \033[1;93m: \033[1;92mAnonymous Trickers
+\033[1;96mAuthor  \033[1;93m: \033[1;92mDj Evilking
+\033[1;96mYouTube \033[1;93m: \033[1;92mAnonymous Trickers Evil
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/FAKHAR143/Mr_DJ
 \033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/Anonymoustricker1
 \033[1;91m======================================="""
